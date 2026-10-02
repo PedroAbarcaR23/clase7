@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" role="img" aria-labelledby="title desc">
+<title id="title">Esquema de un compresor alternativo</title><desc id="desc">Motor y correa accionan el cigüeñal. La biela conecta el cigüeñal con el pistón. Dos válvulas en el cabezal controlan admisión y descarga hacia el tanque.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0L6 3L0 6" fill="none" stroke="#00a9c4" stroke-width="2"/></marker></defs>
+<g fill="none" stroke="#102f4a" stroke-width="7"><rect x="150" y="374" width="470" height="104" rx="52" fill="#e1f4fa"/><path d="M210 478v22m340-22v22"/><rect x="200" y="268" width="125" height="75" rx="14" fill="#d8e5ec"/><circle cx="273" cy="309" r="24"/><circle cx="458" cy="295" r="63"/><path d="M265 286l184-55m-184 102l184 25"/><rect x="403" y="85" width="110" height="147" fill="#f4f7fa"/><path d="M388 87h140m-140 18h140m-140 19h140m-140 19h140m-140 19h140"/><rect x="411" y="160" width="94" height="24" fill="#99d6e4"/><path d="M458 184l24 90"/><circle cx="482" cy="274" r="10" fill="#d8b360"/><path d="M496 67h53q50 0 50 60v247" stroke="#c47c32"/></g>
+<g fill="#00a9c4"><rect x="417" y="72" width="21" height="9"/><rect x="475" y="72" width="21" height="9"/></g>
+<path d="M345 66h75" fill="none" stroke="#00a9c4" stroke-width="5" marker-end="url(#arrow)"/>
+<g font-family="Segoe UI,Arial,sans-serif" font-size="24" fill="#102f4a"><text x="184" y="255">Motor</text><text x="360" y="35">Admisión</text><text x="529" y="35">Descarga</text><text x="544" y="188">Cilindro</text><text x="294" y="173">Pistón</text><text x="531" y="253">Biela</text><text x="519" y="330">Cigüeñal</text><text x="310" y="438">Tanque receptor</text></g>
+<g stroke="#718a9b" stroke-width="2"><path d="M376 169h34m120 72l-49-17m47 96l-39-26m51-105h-27"/></g>
+</svg>

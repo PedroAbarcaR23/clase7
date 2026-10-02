@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Principios básicos del aire comprimido · Clase 7</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <header class="toolbar">
+    <span class="brand">CLASE 7 <span>NEUMÁTICA</span></span>
+    <div class="tools">
+      <button id="menuButton" aria-expanded="false" aria-controls="contents">☰ Índice</button>
+      <button id="pauseButton" aria-pressed="false">Pausar animación</button>
+      <button id="notesButton" aria-expanded="false">Notas y fuentes</button>
+      <button id="fullscreenButton">⛶ Pantalla completa</button>
+    </div>
+  </header>
+  <main id="stage" aria-label="Presentación">
+    <article id="slide" aria-live="polite"></article>
+  </main>
+  <footer class="navigation">
+    <button id="previous" aria-label="Diapositiva anterior">← Anterior</button>
+    <span id="counter"></span>
+    <span id="sectionName"></span>
+    <button id="next" aria-label="Diapositiva siguiente">Siguiente →</button>
+  </footer>
+  <div class="progress" role="progressbar" aria-label="Avance"><div id="progressFill"></div></div>
+  <aside id="contents" class="drawer" hidden><div class="drawer-head"><h2>Contenido</h2><button id="closeMenu" aria-label="Cerrar índice">✕</button></div><nav id="slideList"></nav></aside>
+  <aside id="notes" class="notes" hidden></aside>
+  <div id="announcement" class="sr-only" role="status"></div>
+</body>
+</html>
